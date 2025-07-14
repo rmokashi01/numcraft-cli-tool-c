@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Simplify learning of number systems through interactive modules
 - Visualize two’s complement logic for signed integers
@@ -32,7 +32,7 @@ main.c
 
 ---
 
-## 🧩 Modules Included
+## Modules Included
 
 | Module                         | Description                                     |
 |-------------------------------|-------------------------------------------------|
@@ -43,7 +43,7 @@ main.c
 
 ---
 
-## 🖥️ User Interface Snapshots
+## User Interface Snapshots
 
 ```
 
@@ -66,7 +66,7 @@ Choose a module to explore:
 
 ---
 
-## 🧠 C Concepts Applied
+## C Concepts Applied
 
 - Modular Programming (`.c` / `.h` files)
 - Pointers and Dynamic Memory (`malloc`, `free`)
@@ -108,10 +108,10 @@ make
 
 ---
 
-## 📚 Developed As Part of
+## Developed As Part of
 
-> 🏫 **Emertxe Embedded Systems Course – Advanced C Module**
-> 📅 **March 2025 – September 2025**
+> **Emertxe Embedded Systems Course – Advanced C Module**
+> **March 2025 – September 2025**
 
 This project was built using concepts taught in the Advanced C module during the 6-month embedded systems course.
 
