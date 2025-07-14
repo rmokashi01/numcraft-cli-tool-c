@@ -98,7 +98,7 @@ make
 ## 🚀 Getting Started
 
 1. Clone this repository
-   `git clone https://github.com/yourusername/numcraft-number-system.git`
+   `git clone https://github.com/rmokashi01/numcraft-cli-tool-c.git`
 
 2. Navigate into the project
    `cd numcraft-number-system`
